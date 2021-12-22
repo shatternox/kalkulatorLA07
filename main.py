@@ -1,11 +1,15 @@
 
 def penambahan(a,b):
-    total = a + b
-    return total
+    return a + b
+
+
+def pengurangan(a,b):
+    return a-b
 
 
 def main():
     print(penambahan(10,5))
+    print(pengurangan(10,5))
     
     
 if __name__ == "__main__":
