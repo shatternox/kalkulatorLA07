@@ -6,8 +6,10 @@ def penambahan(a,b):
 def pengurangan(a,b):
     return a-b
 
+
 def perkalian(a,b):
     return a*b
+
 
 def main():
     print(penambahan(10,5))
